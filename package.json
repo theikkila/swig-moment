@@ -1,6 +1,6 @@
 {
   "name": "swig-moment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Moment.js plugin for swig",
   "main": "index.js",
   "scripts": {

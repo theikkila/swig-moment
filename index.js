@@ -3,7 +3,7 @@ var moment = require('moment');
 
 
 
-module.export = function (locale) {
+module.exports = function (locale) {
   moment.locale(locale || 'en');
   return {
     date: function (d, format) {
