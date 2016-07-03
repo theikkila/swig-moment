@@ -1,0 +1,18 @@
+{
+  "name": "swig-moment",
+  "version": "0.0.1",
+  "description": "Moment.js plugin for swig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Moment.js",
+    "Swig"
+  ],
+  "author": "Teemu Heikkilä <teemu@emblica.fi>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
