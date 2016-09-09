@@ -13,6 +13,6 @@
   "author": "Teemu Heikkilä <teemu@emblica.fi>",
   "license": "MIT",
   "dependencies": {
-    "moment": "^2.13.0"
+    "moment-timezone": "^0.5.5"
   }
 }
